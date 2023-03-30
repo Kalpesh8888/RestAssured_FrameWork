@@ -156,3 +156,48 @@
 17:49:03.416 [main] INFO  api.test.UserTests2 - ********** User updated ***************
 17:49:04.682 [main] INFO  api.test.UserTests2 - **********   Deleting User (Delete req. )  ***************
 17:49:05.755 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+18:11:51.295 [main] DEBUG api.test.UserTests2 - debugging.....
+18:11:51.507 [main] INFO  api.test.UserTests2 - ********** Creating user (Post Req.) ***************
+18:12:36.455 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+18:12:36.523 [main] INFO  api.test.UserTests2 - ********** Reading User Info (Get Req.) ***************
+18:12:37.677 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+18:12:37.680 [main] INFO  api.test.UserTests2 - ********** Updating User (Put Req.) ***************
+18:12:39.152 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+18:12:40.293 [main] INFO  api.test.UserTests2 - **********   Deleting User (Delete req. )  ***************
+18:12:41.358 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+19:48:17.613 [main] DEBUG api.test.UserTests2 - debugging.....
+19:48:17.699 [main] INFO  api.test.UserTests2 - ********** Creating user (Post Req.) ***************
+19:48:41.095 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+19:48:41.289 [main] INFO  api.test.UserTests2 - ********** Reading User Info (Get Req.) ***************
+19:48:42.453 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+19:48:42.456 [main] INFO  api.test.UserTests2 - ********** Updating User (Put Req.) ***************
+19:48:43.556 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+19:48:44.658 [main] INFO  api.test.UserTests2 - **********   Deleting User (Delete req. )  ***************
+19:48:45.752 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+20:11:25.789 [main] DEBUG api.test.UserTests2 - debugging.....
+20:11:25.846 [main] INFO  api.test.UserTests2 - ********** Creating user (Post Req.) ***************
+20:11:47.170 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+20:11:47.206 [main] INFO  api.test.UserTests2 - ********** Reading User Info (Get Req.) ***************
+20:11:48.389 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+20:11:48.392 [main] INFO  api.test.UserTests2 - ********** Updating User (Put Req.) ***************
+20:11:49.553 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+20:11:50.647 [main] INFO  api.test.UserTests2 - **********   Deleting User (Delete req. )  ***************
+20:11:51.772 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+20:14:23.363 [main] DEBUG api.test.UserTests2 - debugging.....
+20:14:23.486 [main] INFO  api.test.UserTests2 - ********** Creating user (Post Req.) ***************
+20:14:33.308 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+20:14:33.340 [main] INFO  api.test.UserTests2 - ********** Reading User Info (Get Req.) ***************
+20:14:34.473 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+20:14:34.476 [main] INFO  api.test.UserTests2 - ********** Updating User (Put Req.) ***************
+20:14:35.655 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+20:14:36.780 [main] INFO  api.test.UserTests2 - **********   Deleting User (Delete req. )  ***************
+20:14:37.824 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+20:15:16.975 [main] DEBUG api.test.UserTests2 - debugging.....
+20:15:17.021 [main] INFO  api.test.UserTests2 - ********** Creating user (Post Req.) ***************
+20:15:21.656 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+20:15:21.678 [main] INFO  api.test.UserTests2 - ********** Reading User Info (Get Req.) ***************
+20:15:22.829 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+20:15:22.833 [main] INFO  api.test.UserTests2 - ********** Updating User (Put Req.) ***************
+20:15:23.945 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+20:15:25.044 [main] INFO  api.test.UserTests2 - **********   Deleting User (Delete req. )  ***************
+20:15:26.160 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
